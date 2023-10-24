@@ -1,0 +1,13 @@
+.edit{
+    color: #d9cd26;
+    margin-right: 10px;
+}
+
+.delete {
+    color: #e35e6b;
+}
+
+button{
+    border: none;
+    background-color: transparent;
+}
